@@ -1,6 +1,8 @@
 # About me 👋
 
 
+<!-- TO DO: add more details about me later -->
+
 **mahris2022/mahris2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 | Rank | Languages |
 |-----:|-----------|
@@ -30,6 +32,12 @@ Here are some ideas to get you started:
 |     3| SQL       |
 
 </details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mahnaz
+
   <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
